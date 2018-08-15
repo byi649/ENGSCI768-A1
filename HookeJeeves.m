@@ -12,13 +12,16 @@ function [x,val] = HookeJeeves(f, univ, n, x1, epsilon, varargin)
 
 
 % Initialisation
-% epsilon = epsilon
 x(:, 1) = x1;
 y(:, 1) = x(:, 1);
 k = 1;
 val(1) = f(x(:, 1));
 
-a = [];
+if nargin >=6
+    xstep = [x1'];
+    valstep = [val(1)];
+end
+
 % Main step
 while(true)
     % Exploratory search
@@ -27,27 +30,45 @@ while(true)
         d = zeros(n, 1);
         d(j) = 1;
         % Line search
-        a(j) = univ(f, y(:, j), d, 0.00001);
-        y(:, j+1) = y(:, j) + a(j)*d;
+        a = univ(f, y(:, j), d, 0.00001);
+        y(:, j+1) = y(:, j) + a*d;
+        
+        % For plotting steps in Q2
+        if nargin >=6
+            xstep = [xstep, y(:, j+1)];
+            valstep = [valstep, f(y(:, j+1))];
+        end
+        
     end
     x(:, k+1) = y(:, n+1);
     val(k+1) = f(x(:, k+1));
-
-    % Termination criteria - l2 norm
+    
+    % Termination criteria - l2 norm of step
     termination_criteria = norm(x(:, k+1) - x(:, k)) < epsilon;
     if termination_criteria
         % Output final f, x
         if nargin < 6
             val = val(:, k+1);
             x = x(:, k+1);
+        else
+            val = valstep;
+            x = xstep;
         end
         break;
     end
 
     % Pattern search
     ds = x(:, k+1) - x(:, k);
-    as = univ(f, x(:, k+1), ds, 0.00001);
-    y(:, 1) = x(:, k+1) + as*ds;
-    j = 1;
+    a = univ(f, x(:, k+1), ds, 0.00001);
+    y(:, 1) = x(:, k+1) + a*ds;
+    
+    % For plotting steps in Q2
+    if nargin >=6
+        xstep = [xstep, y(:, 1)];
+        valstep = [valstep, f(y(:, 1))];
+    end
+    
     k = k + 1;
+end
+
 end

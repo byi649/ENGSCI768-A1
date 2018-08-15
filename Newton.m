@@ -1,4 +1,4 @@
-function [ x, val ] = Newton(f, grad, hessian, univ, n, x1, epsilon, varargin)
+function [ x, val, gradient ] = Newton(f, grad, hessian, univ, n, x1, epsilon, varargin)
 % Steepest Descent Method - 
 %   f = function name handle 
 %   grad = function name handle of gradient  (returns column vector)
@@ -11,18 +11,21 @@ function [ x, val ] = Newton(f, grad, hessian, univ, n, x1, epsilon, varargin)
 % output:
 %   x = optimal solution
 %   val = objective function value of optimal solution f(x)
+%   gradient = gradients at x
 
 % Initialisation
-% epsilon = epsilon
 x(:, 1) = x1;
 k = 1;
 val(1) = f(x(:, 1));
+gradient(:, 1) = grad(x(:, 1));
 
 % Main step
 while(true)
+    % Termination criteria - l2 norm of gradient
     termination_criteria = norm(grad(x(:, k))) < epsilon;
     if termination_criteria
-        % Output final f, x
+        % Output final f, x, gradient
+        gradient(:, k) = grad(x(:, k));
         if nargin < 8
             val = val(k);
             x = x(:, k);
@@ -30,22 +33,14 @@ while(true)
         break;
     end
 
+    % Calculate directions, step size
     d = -inv(hessian(x(:, k))) * grad(x(:, k));
-    %a = univ(f, x(:, k), d, 0.00001);
-    a = 1;
+    gradient(:, k) = grad(x(:, k));
+    a = univ(f, x(:, k), d, 0.00001);
+    %a = 1;
 
     x(:, k+1) = x(:, k) + a*d;
     val(k+1) = f(x(:, k+1));
-    
-    termination_criteria_2 = norm(x(:, k+1) - x(:, k)) < epsilon;
-    if termination_criteria_2
-        % Output final f, x
-        if nargin < 8
-            val = val(k+1);
-            x = x(:, k+1);
-        end
-        break;
-    end
     
     k = k + 1;
 end

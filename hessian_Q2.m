@@ -5,8 +5,8 @@ function [ y ] = hessian_Q2( x )
 % output
 %   y = gradient of function evaluated at x (column vector)
 
-y = [24*x(1)^2 0;
-     0 48*x(2)^2];
+y = [36*x(1)^2 + 20*x(2) - 5,   20*x(1) + 2;
+     20*x(1) + 2,               24*x(2)^2 ];
 
 end
 

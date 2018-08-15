@@ -5,11 +5,8 @@ function [ y ] = grad_Q2( x )
 % output
 %   y = gradient of function evaluated at x (column vector)
 
-% y = [4*x(1) + 3*x(2) - 1;
-%      3*x(1) + 10*x(2)];
-
-y = [8*x(1)^3 - 1;
-     16*x(2)^3 - 2];
+y = [12*x(1)^3 + 20*x(1)*x(2) + 2*x(2) - 5;
+     8*x(2)^3 + 10*x(1)^2 + 2*x(1)       ];
 
 end
 
