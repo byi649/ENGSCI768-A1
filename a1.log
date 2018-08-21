@@ -1,16 +1,12 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.3.27)  21 AUG 2018 02:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500) (preloaded format=pdflatex 2018.8.21)  21 AUG 2018 12:03
 entering extended mode
 **./a1.tex
 (a1.tex
 LaTeX2e <2017-04-15>
-Babel <3.18> and hyphenation patterns for 75 language(s) loaded.
-
-("C:\Users\Benjamin Yi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article
-.cls"
+Babel <3.16> and hyphenation patterns for 76 language(s) loaded.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\article.cls"
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
-
-("C:\Users\Benjamin Yi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size10.
-clo"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\size10.clo"
 File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -25,26 +21,21 @@ File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-("C:\Users\Benjamin Yi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geo
-metry.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
 Package: geometry 2010/09/12 v5.6 Page Geometry
 
-("C:\Users\Benjamin Yi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\key
-val.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
 )
-("C:\Users\Benjamin Yi\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\i
-fpdf.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
 Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
 )
-("C:\Users\Benjamin Yi\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\i
-fvtex.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
 Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 )
-("C:\Users\Benjamin Yi\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\if
-xetex.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
 \Gm@cnth=\count87
@@ -60,42 +51,33 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layoutvoffset=\dimen110
 \Gm@dimlist=\toks15
 
-("C:\Users\Benjamin Yi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geo
-metry.cfg"))
-("C:\Users\Benjamin Yi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\inputen
-c.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\inputenc.sty"
 Package: inputenc 2015/03/17 v1.2c Input encoding file
 \inpenc@prehook=\toks16
 \inpenc@posthook=\toks17
 
-("C:\Users\Benjamin Yi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\latin1.
-def"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\latin1.def"
 File: latin1.def 2015/03/17 v1.2c Input encoding file
 ))
-("C:\Users\Benjamin Yi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsm
-ath.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
 Package: amsmath 2017/09/02 v2.17a AMS math features
 \@mathmargin=\skip43
 
 For additional information on amsmath, use the `?' option.
-
-("C:\Users\Benjamin Yi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amst
-ext.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
 Package: amstext 2000/06/29 v2.01 AMS text
 
-("C:\Users\Benjamin Yi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsg
-en.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks18
 \ex@=\dimen111
 ))
-("C:\Users\Benjamin Yi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsb
-sy.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen112
 )
-("C:\Users\Benjamin Yi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amso
-pn.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
 Package: amsopn 2016/03/08 v2.02 operator names
 )
 \inf@bad=\count90
@@ -136,24 +118,20 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
 LaTeX Info: Redefining \[ on input line 2817.
 LaTeX Info: Redefining \] on input line 2818.
 )
-("C:\Users\Benjamin Yi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\ams
-fonts.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 )
-("C:\Users\Benjamin Yi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\ams
-symb.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 )
-("C:\Users\Benjamin Yi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\mathtools\ma
-thtools.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\mathtools\mathtools.sty"
 Package: mathtools 2018/01/08 v1.21 mathematical typesetting tools
 
-("C:\Users\Benjamin Yi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\calc.s
-ty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\calc.sty"
 Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count102
 \calc@Bcount=\count103
@@ -166,8 +144,7 @@ LaTeX Info: Redefining \addtolength on input line 81.
 \calc@Ccount=\count104
 \calc@Cskip=\skip48
 )
-("C:\Users\Benjamin Yi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\mathtools\mh
-setup.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\mathtools\mhsetup.sty"
 Package: mhsetup 2017/03/31 v1.3 programming setup (MH)
 )
 LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 129.
@@ -184,33 +161,27 @@ LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 129.
 \l_MT_above_shortintertext_sep=\dimen127
 \l_MT_below_shortintertext_sep=\dimen128
 )
-("C:\Users\Benjamin Yi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\gra
-phicx.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Users\Benjamin Yi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\gra
-phics.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
 Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Users\Benjamin Yi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\tri
-g.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-("C:\Users\Benjamin Yi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg
-\graphics.cfg"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 99.
 
-("C:\Users\Benjamin Yi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def
-\pdftex.def"
-File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
+File: pdftex.def 2018/01/01 v1.0k Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen129
 \Gin@req@width=\dimen130
 )
-("C:\Users\Benjamin Yi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\float\float.
-sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\float\float.sty"
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count106
 \float@exts=\toks23
@@ -218,22 +189,18 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks24
 \@floatcapt=\box29
 )
-("C:\Users\Benjamin Yi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\col
-or.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\color.sty"
 Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
 
-("C:\Users\Benjamin Yi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg
-\color.cfg"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg"
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 147.
 
-("C:\Users\Benjamin Yi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\dvi
-psnam.def"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\dvipsnam.def"
 File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
 ))
-("C:\Users\Benjamin Yi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fancyhdr\fan
-cyhdr.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.sty"
 Package: fancyhdr 2017/06/30 v3.9a Extensive control of page headers and footer
 s
 \f@nch@headwidth=\skip50
@@ -246,8 +213,7 @@ s
 \f@nch@O@olf=\skip57
 \f@nch@O@orf=\skip58
 )
-("C:\Users\Benjamin Yi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\enumitem\enu
-mitem.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\enumitem\enumitem.sty"
 Package: enumitem 2011/09/28 v3.5.2 Customized lists
 \labelindent=\skip59
 \enit@outerparindent=\dimen131
@@ -255,8 +221,7 @@ Package: enumitem 2011/09/28 v3.5.2 Customized lists
 \enit@inbox=\box30
 \enitdp@description=\count107
 )
-("C:\Users\Benjamin Yi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lis
-tings.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\listings.sty"
 \lst@mode=\count108
 \lst@gtempboxa=\box31
 \lst@token=\toks26
@@ -270,37 +235,34 @@ tings.sty"
 \lst@lineno=\count113
 \lst@maxwidth=\dimen135
 
-("C:\Users\Benjamin Yi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lst
-misc.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\lstmisc.sty"
 File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
 \c@lstnumber=\count114
 \lst@skipnumbers=\count115
 \lst@framebox=\box32
 )
-("C:\Users\Benjamin Yi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lis
-tings.cfg"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\listings.cfg"
 File: listings.cfg 2015/06/04 1.6 listings configuration
 ))
 Package: listings 2015/06/04 1.6 (Carsten Heinz)
 
-("C:\Users\Benjamin Yi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lst
-lang1.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\lstlang1.sty"
 File: lstlang1.sty 2015/06/04 1.6 listings language file
 ) (a1.aux)
 \openout1 = `a1.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -336,9 +298,7 @@ LaTeX Font Info:    ... okay on input line 26.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-
-("C:\Users\Benjamin Yi\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-
-pdf.mkii"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count116
 \scratchdimen=\dimen136
@@ -351,41 +311,31 @@ pdf.mkii"
 \MPnumerator=\count120
 \makeMPintoPDFobject=\count121
 \everyMPtoPDFconversion=\toks28
-)
-("C:\Users\Benjamin Yi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\eps
-topdf-base.sty"
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
-("C:\Users\Benjamin Yi\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\i
-nfwarerr.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 )
-("C:\Users\Benjamin Yi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grf
-ext.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 
-("C:\Users\Benjamin Yi\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\k
-vdefinekeys.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
 Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
 
-("C:\Users\Benjamin Yi\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\l
-txcmds.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 )))
-("C:\Users\Benjamin Yi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvo
-ptions.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 
-("C:\Users\Benjamin Yi\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\k
-vsetkeys.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
 Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 
-("C:\Users\Benjamin Yi\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\e
-texcmds.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
 Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
 
-("C:\Users\Benjamin Yi\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\i
-fluatex.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 )
@@ -394,9 +344,8 @@ Package etexcmds Info: Could not find \expanded.
 (etexcmds)             that some package has redefined \expanded.
 (etexcmds)             In the latter case, load this package earlier.
 )))
-("C:\Users\Benjamin Yi\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\p
-dftexcmds.sty"
-Package: pdftexcmds 2018/01/21 v0.26 Utility functions of pdfTeX for LuaTeX (HO
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
 )
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
@@ -411,114 +360,125 @@ G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
 \c@lstlisting=\count122
- [1{C:/Users/Benjamin Yi/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
+
+[1{C:/Users/byi649/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
 
 ]
 <q2hj.png, id=8, 421.575pt x 316.18124pt>
 File: q2hj.png Graphic file (type png)
 <use q2hj.png>
-Package pdftex.def Info: q2hj.png  used on input line 40.
+Package pdftex.def Info: q2hj.png  used on input line 39.
 (pdftex.def)             Requested size: 328.82706pt x 246.6252pt.
-LaTeX Font Info:    Try loading font information for U+msa on input line 43.
+LaTeX Font Info:    Try loading font information for U+msa on input line 42.
 
-("C:\Users\Benjamin Yi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\ums
-a.fd"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 43.
+LaTeX Font Info:    Try loading font information for U+msb on input line 42.
 
-("C:\Users\Benjamin Yi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\ums
-b.fd"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 <q2hjp.jpg, id=9, 678.28406pt x 30.86531pt>
 File: q2hjp.jpg Graphic file (type jpg)
 <use q2hjp.jpg>
-Package pdftex.def Info: q2hjp.jpg  used on input line 46.
+Package pdftex.def Info: q2hjp.jpg  used on input line 45.
 (pdftex.def)             Requested size: 469.75499pt x 21.37619pt.
 <q2hjf.jpg, id=10, 678.28406pt x 15.80907pt>
 File: q2hjf.jpg Graphic file (type jpg)
 <use q2hjf.jpg>
-Package pdftex.def Info: q2hjf.jpg  used on input line 52.
+Package pdftex.def Info: q2hjf.jpg  used on input line 51.
 (pdftex.def)             Requested size: 469.75499pt x 10.94878pt.
  [2 <./q2hj.png (PNG copy)> <./q2hjp.jpg> <./q2hjf.jpg>]
 <q2sd.png, id=16, 421.575pt x 316.18124pt>
 File: q2sd.png Graphic file (type png)
 <use q2sd.png>
-Package pdftex.def Info: q2sd.png  used on input line 59.
+Package pdftex.def Info: q2sd.png  used on input line 58.
 (pdftex.def)             Requested size: 328.82706pt x 246.6252pt.
 <q2sdp.jpg, id=17, 678.28406pt x 30.86531pt>
 File: q2sdp.jpg Graphic file (type jpg)
 <use q2sdp.jpg>
-Package pdftex.def Info: q2sdp.jpg  used on input line 65.
+Package pdftex.def Info: q2sdp.jpg  used on input line 64.
 (pdftex.def)             Requested size: 469.75499pt x 21.37619pt.
 <q2sdg.jpg, id=18, 678.28406pt x 30.86531pt>
 File: q2sdg.jpg Graphic file (type jpg)
 <use q2sdg.jpg>
-Package pdftex.def Info: q2sdg.jpg  used on input line 71.
+Package pdftex.def Info: q2sdg.jpg  used on input line 70.
 (pdftex.def)             Requested size: 469.75499pt x 21.37619pt.
 <q2sdf.jpg, id=19, 678.28406pt x 15.80907pt>
 File: q2sdf.jpg Graphic file (type jpg)
 <use q2sdf.jpg>
-Package pdftex.def Info: q2sdf.jpg  used on input line 77.
+Package pdftex.def Info: q2sdf.jpg  used on input line 76.
 (pdftex.def)             Requested size: 469.75499pt x 10.94878pt.
  [3 <./q2sd.png (PNG copy)> <./q2sdp.jpg> <./q2sdg.jpg> <./q2sdf.jpg>]
-<q2nl.png, id=23, 421.575pt x 316.18124pt>
+<q2nl.png, id=23, 578.16pt x 433.62pt>
 File: q2nl.png Graphic file (type png)
 <use q2nl.png>
-Package pdftex.def Info: q2nl.png  used on input line 84.
-(pdftex.def)             Requested size: 328.82706pt x 246.6252pt.
-<q2nlp.jpg, id=24, 283.0575pt x 30.86531pt>
+Package pdftex.def Info: q2nl.png  used on input line 83.
+(pdftex.def)             Requested size: 328.82706pt x 246.61679pt.
+<q2nlp.jpg, id=24, 228.10219pt x 32.37094pt>
 File: q2nlp.jpg Graphic file (type jpg)
 <use q2nlp.jpg>
-Package pdftex.def Info: q2nlp.jpg  used on input line 90.
-(pdftex.def)             Requested size: 328.82706pt x 35.85933pt.
-<q2nlg.jpg, id=25, 283.0575pt x 30.86531pt>
+Package pdftex.def Info: q2nlp.jpg  used on input line 89.
+(pdftex.def)             Requested size: 328.82706pt x 46.66646pt.
+<q2nlg.jpg, id=25, 227.34938pt x 33.12375pt>
 File: q2nlg.jpg Graphic file (type jpg)
 <use q2nlg.jpg>
-Package pdftex.def Info: q2nlg.jpg  used on input line 96.
-(pdftex.def)             Requested size: 328.82706pt x 35.85933pt.
-<q2nlf.jpg, id=26, 283.0575pt x 15.80907pt>
+Package pdftex.def Info: q2nlg.jpg  used on input line 95.
+(pdftex.def)             Requested size: 328.82706pt x 47.90941pt.
+<q2nlf.jpg, id=26, 227.34938pt x 16.56187pt>
 File: q2nlf.jpg Graphic file (type jpg)
 <use q2nlf.jpg>
-Package pdftex.def Info: q2nlf.jpg  used on input line 102.
-(pdftex.def)             Requested size: 328.82706pt x 18.36696pt.
+Package pdftex.def Info: q2nlf.jpg  used on input line 101.
+(pdftex.def)             Requested size: 328.82706pt x 23.9547pt.
  [4 <./q2nl.png (PNG copy)> <./q2nlp.jpg> <./q2nlg.jpg> <./q2nlf.jpg>]
-<q2np.png, id=30, 421.575pt x 316.18124pt>
+<q2np.png, id=30, 578.16pt x 433.62pt>
 File: q2np.png Graphic file (type png)
 <use q2np.png>
-Package pdftex.def Info: q2np.png  used on input line 109.
-(pdftex.def)             Requested size: 328.82706pt x 246.6252pt.
+Package pdftex.def Info: q2np.png  used on input line 108.
+(pdftex.def)             Requested size: 328.82706pt x 246.61679pt.
  [5 <./q2np.png (PNG copy)>]
-[6]
-Underfull \hbox (badness 10000) in paragraph at lines 150--153
+<q3pq.png, id=34, 578.16pt x 433.62pt>
+File: q3pq.png Graphic file (type png)
+<use q3pq.png>
+Package pdftex.def Info: q3pq.png  used on input line 119.
+(pdftex.def)             Requested size: 352.31624pt x 264.23654pt.
+<q3p3.png, id=35, 578.16pt x 433.62pt>
+File: q3p3.png Graphic file (type png)
+<use q3p3.png>
+Package pdftex.def Info: q3p3.png  used on input line 125.
+(pdftex.def)             Requested size: 352.31624pt x 264.23654pt.
+<q3re.png, id=36, 268.00125pt x 121.20282pt>
+File: q3re.png Graphic file (type png)
+<use q3re.png>
+Package pdftex.def Info: q3re.png  used on input line 131.
+(pdftex.def)             Requested size: 328.82706pt x 148.71054pt.
+ [6 <./q3pq.png (PNG copy)> <./q3p3.png (PNG copy)>] [7 <./q3re.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 172--175
 
  []
 
-[7] (a1.aux) ) 
+[8] [9] (a1.aux) ) 
 Here is how much of TeX's memory you used:
- 5539 strings out of 493305
- 82090 string characters out of 3127190
- 182016 words of memory out of 3000000
- 8994 multiletter control sequences out of 15000+200000
+ 5554 strings out of 493303
+ 79889 string characters out of 3136084
+ 181835 words of memory out of 3000000
+ 9009 multiletter control sequences out of 15000+200000
  6252 words of font info for 25 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,12n,43p,281b,340s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Users/Benjamin Yi/AppData/Local/Programs/MiKTeX 2.9/fonts/typ
-e1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Benjamin Yi/AppData/Local/Programs/M
-iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Benjamin Yi/AppDa
-ta/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/User
-s/Benjamin Yi/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
-cmmi10.pfb><C:/Users/Benjamin Yi/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/
-public/amsfonts/cm/cmmi7.pfb><C:/Users/Benjamin Yi/AppData/Local/Programs/MiKTe
-X 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Benjamin Yi/AppData/Lo
-cal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Benja
-min Yi/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.
-pfb><C:/Users/Benjamin Yi/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/
-amsfonts/cm/cmsy7.pfb>
-Output written on a1.pdf (7 pages, 389356 bytes).
+ 41i,12n,43p,281b,348s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfont
+s/cm/cmbx10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/
+cm/cmbx12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
+/cmex10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
+mmi10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmm
+i7.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.
+pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb>
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C
+:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
+Output written on a1.pdf (9 pages, 487210 bytes).
 PDF statistics:
- 74 PDF objects out of 1000 (max. 8388607)
+ 85 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 61 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 76 words of extra memory for PDF output out of 10000 (max. 10000000)
 
